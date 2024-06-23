@@ -1,5 +1,5 @@
 Hello there; welcome 👋🏾
- http://www.linkedin.com/in/shittu-qudus-5787762ab/ 
+AltSchool Badge Linkedin Badge(https://www.linkedin.com/in/shittu-qudus-5787762ab/) Twitter Badge(https://twitter.com/Rarelyseen12123)
  I'm a Software Engineer, Content Creator, and Community Engineer who currently works as a Developer Advocate at Commerce Layer. I'm passionate about sharing knowledge, documentation, web engineering, Jamstack, headless commerce, and others. I create technical content (on my Blog, Newsletter, and YouTube), build useful open-source projects, speak at some meetups/conferences, build technical communities...
 
 Here's a quick summary about me:
